@@ -20,6 +20,23 @@ I have directed the product and technical work across the customer journey, incl
 
 The work requires more than generating text. Report content, source handling, customer flow, legal boundaries, support behavior, and system reliability all have to work together as one product.
 
+## Architecture and Data Boundaries
+
+The [live product](https://www.dna-health-insights.com/) and [public engineering description](https://mastermindgroupventures.com/architecture.html#dna-engineering) describe this flow:
+
+1. The person creates or signs into an account before selecting a DNA file.
+2. The raw DNA file is processed locally in the browser, rather than uploaded to the application's servers.
+3. With consent, report findings are used to generate a plain-language educational reading.
+4. Report findings and the reading are saved with the report in the signed-in account.
+
+The distinction is between the raw file and the findings used for reports. Browser-local raw-file processing does not mean that all health-related information stays on the device.
+
+The [MGV work description](https://mastermindgroupventures.com/capabilities.html#dna) also describes account-scoped access to saved findings and reports. These are published product and architecture descriptions; this public case study does not provide source-level or independent runtime verification of those privacy controls.
+
+## Engineering Ownership
+
+I direct architecture and product delivery, including implementation review, testing, and follow-through on production issues. I use AI-assisted development to extend delivery capacity while owning architecture, acceptance, and release decisions.
+
 ## Why This Work Matters
 
 DNA Health Insights makes complex information easier to explore without hiding the supporting sources. It also gives customers a way to connect findings across separate reports instead of leaving them with a collection of isolated facts.
@@ -30,4 +47,6 @@ DNA Health Insights makes complex information easier to explore without hiding t
 
 DNA Health Insights provides educational information; it does not diagnose conditions or prescribe treatment. This summary does not include private source code, customer data, or internal operating material.
 
-[Back to the portfolio](../README.md)
+The application was created for a family member's business and is presented as an MGV work sample, not an independent client endorsement. Public product features may require account access.
+
+[Evidence index](../EVIDENCE.md) · [Back to the portfolio](../README.md)
