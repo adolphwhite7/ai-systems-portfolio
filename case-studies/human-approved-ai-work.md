@@ -2,7 +2,7 @@
 
 **Role:** Founder & Principal Enterprise Architect, Mastermind Group Ventures<br>
 **Artifact:** MGV's internal governed AI Dispatch Gateway<br>
-**Status:** Locally demonstrated workflows; qualification is specific to the route and environment<br>
+**Status:** Internal Gateway prototype with demonstrated local workflows; qualification is specific to the route and environment<br>
 **Public guide:** [The Gateway, September 14, 2026](https://mastermindgroupventures.com/work/gateway/index.html)
 
 The visual below is a generalized reference architecture. The linked guide supplies the implementation detail and qualification boundaries for the internal system.
@@ -56,9 +56,9 @@ The reference architecture follows a work request from approval through routing,
 
 ## Evidence and Qualification
 
-The [guide](https://mastermindgroupventures.com/work/gateway/index.html) reports internal workflows tested in MGV's macOS environment. Qualification is specific to the route, model, interface, and environment; Linux and multi-tenant operation are not qualified. A new organization requires separate integration and testing.
+The [September 14 guide](https://mastermindgroupventures.com/work/gateway/index.html) documents workflows tested in MGV’s macOS environment. Qualification is specific to the route, model, interface, and environment. Linux and multi-tenant operation remain unqualified; another organization requires separate integration and testing.
 
-These are owner-published descriptions of an internal engineering capability. The guide says historical tests were inspected, not rerun for its September 14 edition. This repository does not expose the private Gateway source or receipts, and does not claim an independent present-day runtime verification, customer deployment, certification, measured performance gain, or turnkey enterprise product.
+The guide inspected historical test records rather than rerunning them. This example establishes a bounded local workflow, with customer deployment and production release outside its scope.
 
 [Learn about Mastermind Group Ventures](https://mastermindgroupventures.com/)  
 [Evidence index](../EVIDENCE.md) · [Back to the portfolio](../README.md)

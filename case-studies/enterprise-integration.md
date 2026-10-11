@@ -30,6 +30,6 @@ My published account describes the PCI office adopting that policy approach as a
 
 ## Evidence and Limits
 
-The scope, roles, and results above come from my [public founder page](https://mastermindgroupventures.com/founder.html). They describe work performed as a Capital One employee, not an MGV customer engagement.
+[My public career account](https://mastermindgroupventures.com/founder.html) describes these roles, decisions, and results. This work was performed as a Capital One employee. Employer diagrams and change records remain private.
 
 [Evidence index](../EVIDENCE.md) · [Back to the portfolio](../README.md)

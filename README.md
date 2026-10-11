@@ -38,7 +38,7 @@ MGV's internal governed AI Gateway separates read-only review, bounded code chan
 
 ## Runnable Example
 
-[Connected Report Demo](https://github.com/adolphwhite7/connected-report-demo) is a Python standard-library CLI that validates synthetic findings, selects them in the requested order, and writes a Markdown report with source links. Its source and tests can be run locally.
+[Connected Report Demo](https://github.com/adolphwhite7/connected-report-demo) is a Python standard-library CLI that validates synthetic findings, preserves requested selection order, and produces a Markdown report with source links. It includes sample inputs, expected output, and seven unit tests.
 
 ## About
 

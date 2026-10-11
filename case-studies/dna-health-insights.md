@@ -29,9 +29,7 @@ The [live product](https://www.dna-health-insights.com/) and [public engineering
 3. With consent, report findings are used to generate a plain-language educational reading.
 4. Report findings and the reading are saved with the report in the signed-in account.
 
-The distinction is between the raw file and the findings used for reports. Browser-local raw-file processing does not mean that all health-related information stays on the device.
-
-The [MGV work description](https://mastermindgroupventures.com/capabilities.html#dna) also describes account-scoped access to saved findings and reports.
+Raw files and report findings have different boundaries: consented findings leave the device for report generation and storage. The [MGV work description](https://mastermindgroupventures.com/capabilities.html#dna) describes account-scoped access to saved findings and reports.
 
 ## Engineering Ownership
 
