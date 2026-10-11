@@ -13,8 +13,6 @@ I lead architecture and delivery by making system dependencies, data boundaries,
 
 [Evidence index: ownership, artifacts, verification, and limits](EVIDENCE.md)
 
-These summaries link public material. Career and Gateway narratives are owner-published accounts; the demo provides separately inspectable source and tests. Private employer artifacts, product source, and customer data are not included.
-
 ## Enterprise Integration
 
 My Capital One work included coordinating contact-center integration across networks, firewalls, desktops, and hardware, and working with cloud engineering and information security on Amazon Connect access controls. The case study explains the systems, cross-team dependencies, and operational design choices.
@@ -40,7 +38,7 @@ MGV's internal governed AI Gateway separates read-only review, bounded code chan
 
 ## Runnable Example
 
-[Connected Report Demo](https://github.com/adolphwhite7/connected-report-demo) is a Python standard-library CLI that validates synthetic findings, selects them in the requested order, and writes a Markdown report with source links. Its source and tests can be run locally. It does not call an AI model or demonstrate agent execution; shared themes in its sample narrative do not establish causation.
+[Connected Report Demo](https://github.com/adolphwhite7/connected-report-demo) is a Python standard-library CLI that validates synthetic findings, selects them in the requested order, and writes a Markdown report with source links. Its source and tests can be run locally.
 
 ## About
 

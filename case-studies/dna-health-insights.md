@@ -31,7 +31,7 @@ The [live product](https://www.dna-health-insights.com/) and [public engineering
 
 The distinction is between the raw file and the findings used for reports. Browser-local raw-file processing does not mean that all health-related information stays on the device.
 
-The [MGV work description](https://mastermindgroupventures.com/capabilities.html#dna) also describes account-scoped access to saved findings and reports. These are published product and architecture descriptions; this public case study does not provide source-level or independent runtime verification of those privacy controls.
+The [MGV work description](https://mastermindgroupventures.com/capabilities.html#dna) also describes account-scoped access to saved findings and reports.
 
 ## Engineering Ownership
 
@@ -45,7 +45,7 @@ DNA Health Insights makes complex information easier to explore without hiding t
 
 ## About This Public Case Study
 
-DNA Health Insights provides educational information; it does not diagnose conditions or prescribe treatment. This summary does not include private source code, customer data, or internal operating material.
+DNA Health Insights provides educational information; it does not diagnose conditions or prescribe treatment.
 
 The application was created for a family member's business and is presented as an MGV work sample, not an independent client endorsement. Public product features may require account access.
 
